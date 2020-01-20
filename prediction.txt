@@ -1,0 +1,478 @@
+D:\IntelPython3\python.exe "P:/Projects/Python Projects/order_filename-paper_code/filename-papercode-predict.py"
+2017-10-29 20:31:02.854881: W C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-10-29 20:31:02.855094: W C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-10-29 20:31:03.126821: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:955] Found device 0 with properties: 
+name: GeForce GTX 970
+major: 5 minor: 2 memoryClockRate (GHz) 1.253
+pciBusID 0000:01:00.0
+Total memory: 4.00GiB
+Free memory: 3.31GiB
+2017-10-29 20:31:03.127052: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:976] DMA: 0 
+2017-10-29 20:31:03.127171: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:986] 0:   Y 
+2017-10-29 20:31:03.127299: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '005--鎧揚工程行-局光-5盒-雙.cdr']
+predict paper code: 4595, prob: 0.999893, paper code: 4595
+2017-10-29 20:31:09.404117: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--(智峰)-道林紙100P-中式12k信封-1千個.cdr']
+predict paper code: 42, prob: 0.997218, paper code: 42
+2017-10-29 20:31:14.945234: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '001--辣媽名片0701-雙霧-5盒-雙.ai']
+predict paper code: 4176, prob: 1.0, paper code: 4176
+2017-10-29 20:31:20.408687: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '004--綠野薑黃粉2-亮膜貼紙-5盒2m-裁90x110mm.cdr']
+predict paper code: 88, prob: 1.0, paper code: 88
+2017-10-29 20:31:26.317356: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '016--快3_雙面_象牙-3盒.ai']
+predict paper code: 4342, prob: 1.0, paper code: 4342
+2017-10-29 20:31:31.804851: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '017--清邁美容-一級卡-雙面-5盒-裁90x52mm.cdr']
+predict paper code: 1, prob: 1.0, paper code: 1
+2017-10-29 20:31:37.277190: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--A004-一用就上手封面-A3-200p銅西-500張-單-不裁修.pdf']
+predict paper code: 4599, prob: 1.0, paper code: 4599
+2017-10-29 20:31:42.742918: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--花蓮苗栗明信片-A4-雙面-250P銅西卡-2000張-裁A4--.ai']
+predict paper code: 298, prob: 0.999999, paper code: 298
+2017-10-29 20:31:48.146188: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '013--林金柱-萊妮單面5盒.cdr']
+predict paper code: 41, prob: 1.0, paper code: 41
+2017-10-29 20:31:53.687336: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA05--產品目錄內04-G2-150g銅版-1千張-雙-裁2m成422x297mm--.pdf']
+predict paper code: 279, prob: 0.999999, paper code: 279
+2017-10-29 20:31:59.195299: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A05--宏遠7月份亮點-菊全-單面-150P雙銅-300張-210張上亮膜-裁56.6X84cm.pdf']
+predict paper code: 263, prob: 0.995608, paper code: 263
+2017-10-29 20:32:04.736938: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--復盛-12K中式信封-100P道林-1000個.cdr']
+predict paper code: 73, prob: 0.996108, paper code: 73
+2017-10-29 20:32:10.245774: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--七月優惠2-菊全-190g雙銅-200張-單-裁84x59cm.ai']
+predict paper code: 264, prob: 0.999997, paper code: 264
+2017-10-29 20:32:15.842153: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--瑞旭-A3-120G銅版紙-雙面-2000張-裁A3--helen正面.jpg']
+predict paper code: 4218, prob: 0.999996, paper code: 4218
+2017-10-29 20:32:21.302331: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '013----三商人壽-莊淑玲--亮膜貼紙--5合--才3模.cdr']
+predict paper code: 88, prob: 1.0, paper code: 4119
+2017-10-29 20:32:26.713353: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '010--HH-2294-單亮膜-5盒3m-雙-裁4m(2刀修)成54x67mm--.ai']
+predict paper code: 4170, prob: 0.999987, paper code: 4170
+2017-10-29 20:32:32.222573: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '018--彭運祥-合成卡-3盒-單--.cdr']
+predict paper code: 15, prob: 1.0, paper code: 15
+2017-10-29 20:32:37.650141: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A05--慈光收據-G32K-複寫三聯單(紅藍黃)+單色紅-20本+流水號(002501開始-紅色)+撕線+打釘+牛皮紙封面+厚紙板底.cdr']
+predict paper code: 144, prob: 0.948566, paper code: 144
+2017-10-29 20:32:43.264813: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA04--原住民福利地圖 A2海報 190P銅板 雙面 1000張 裁592x293mm--.cdr']
+predict paper code: 280, prob: 0.999749, paper code: 280
+2017-10-29 20:32:48.833841: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--帝爾(菜單)-複寫二聯單(白+紅)+單色黑-20本+糊頭+厚紙板底.ai']
+predict paper code: 140, prob: 0.999991, paper code: 140
+2017-10-29 20:32:54.359481: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A06--東洋建蒼電機股份有限公司-15K中式信封-側邊糊-100P道林-1000封.ai']
+predict paper code: 77, prob: 0.965258, paper code: 77
+2017-10-29 20:32:59.854631: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01-1--P6061天壇九皇大帝禮斗法會DM-正面-8K-150P雙銅-雙面-3萬6仟張-裁376x260mm--.pdf']
+predict paper code: 342, prob: 0.936906, paper code: 342
+2017-10-29 20:33:05.420936: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA05--園刊內03-A3-150P銅版-500張-雙-不裁修--.pdf']
+predict paper code: 234, prob: 1.0, paper code: 234
+2017-10-29 20:33:10.872460: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'wheyt===流水號從幾起===20160706165551===A02--借出單-G8K-複寫二聯單(白+藍)+單色黑-20本+撕線+流水號(紅色位子+紅字)+打釘+厚紙板底+牛皮紙封面 000001 開始.CDR']
+predict paper code: 146, prob: 0.981285, paper code: 146
+2017-10-29 20:33:16.449943: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'wheyt===流水號從幾起===20160706165612===A03--維修單-G16K-複寫二聯單(白+黃)+單色黑-20本+撕線+流水號(紅色位子+紅字)+打釘+厚紙板底+牛皮紙封面   000001 開始.CDR']
+predict paper code: 137, prob: 0.718592, paper code: 137
+2017-10-29 20:33:21.951818: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--SPN18138B+SPN13138B+NM16K廣告紙合組-2K 150g銅板紙-單面-500張-不裁修.ai']
+predict paper code: 380, prob: 0.999892, paper code: 380
+2017-10-29 20:33:27.915024: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--合富印刷信封-中式15K信封(側邊糊)-80g道林-1千個.ai']
+predict paper code: 78, prob: 0.999886, paper code: 78
+2017-10-29 20:33:33.312057: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '024--老城門洞-珠光貼+背刀-2款各5盒2模-裁100x65mm--.ai']
+predict paper code: 301, prob: 1.0, paper code: 301
+2017-10-29 20:33:38.797408: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--文化中心翠柔-吳式情牽(01-04)-A4-單面-80磅道林-1千張-裁4m(兩刀裁)成6x18cm.tif']
+predict paper code: 4493, prob: 1.0, paper code: 4493
+2017-10-29 20:33:44.374191: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A06---頂柳柳影46期--雙銅100磅-A2雙面-500張--才A2.cdr']
+predict paper code: 4191, prob: 0.999997, paper code: 4191
+2017-10-29 20:33:49.767421: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '026--印尼名片-單面霧膜-5盒-單.ai']
+predict paper code: 4189, prob: 0.999816, paper code: 4189
+2017-10-29 20:33:55.315292: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--加工單-複寫4聯單(1白2黃3紅4藍)+單色黑-40K-120本+糊頭+撕線+打釘+流水號(000001開始-紅色)+牛皮紙封面+厚紙板.cdr']
+predict paper code: 100, prob: 0.73953, paper code: 100
+2017-10-29 20:34:00.787920: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--郵局-父親節明信片-A3-300p銅西-500張-雙-裁4m(2刀修)成212x148mm--.ai']
+predict paper code: 4602, prob: 1.0, paper code: 4602
+2017-10-29 20:34:06.423636: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--訂金單-16K-複寫三聯單(1紅2藍3白)+單色黑-20本+流水號(000001開始-紅字)+糊頭+牛皮紙封面+厚紙板.ai']
+predict paper code: 90, prob: 0.959134, paper code: 90
+2017-10-29 20:34:11.947721: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--輝宏-32K-複寫三聯單(1黃2紅3白)+單色黑-120本-牛皮紙封面+厚紙板-撕線-打釘-流水號(000001開始-紅字)+糊頭.ai']
+predict paper code: 96, prob: 0.989573, paper code: 96
+2017-10-29 20:34:17.455549: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--美祺桃紅字黑底卡-菊全-雙面-350P銅西卡-500張-不裁修--.cdr']
+predict paper code: 268, prob: 0.936448, paper code: 268
+2017-10-29 20:34:22.901871: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--協進國小-幼兒安全衛教手冊封面-G2-200p銅西+單上亮膜-200張-單-留最大不裁修--.ai']
+predict paper code: 281, prob: 0.999999, paper code: 281
+2017-10-29 20:34:28.456522: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'B006--獅子會封面-單霧單局-2盒9m-單-裁274x166mm--.cdr']
+predict paper code: 4598, prob: 0.999999, paper code: 4598
+2017-10-29 20:34:34.049166: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--映惠清潔-G16K-複寫三聯單(1白2紅3藍)+單色黑-20本+糊頭(左).cdr']
+predict paper code: 138, prob: 0.970767, paper code: 138
+2017-10-29 20:34:39.464719: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA05--劉媽媽-A4-150p雪銅-1萬6千張-單-裁4m(1刀修)成97x136mm-(沒出血露白正常)--.cdr']
+predict paper code: 241, prob: 1.0, paper code: 241
+2017-10-29 20:34:45.015072: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03--台中鎮興亞太電信mamo封面組版-2K-200g銅西+單上亮P-單面-200張-不裁修--.ai']
+predict paper code: 382, prob: 0.999481, paper code: 382
+2017-10-29 20:34:50.503490: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--內頁2-a4-道林100p-雙面-5百張-裁A4--.cdr']
+predict paper code: 4345, prob: 1.0, paper code: 4345
+2017-10-29 20:34:55.982336: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '016--403-D008 PowerProducts-EL31103+EL51302-超黏貼紙-5盒4m-裁4m(1刀修)成50x60mm.pdf']
+predict paper code: 130, prob: 0.999389, paper code: 130
+2017-10-29 20:35:01.482925: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--那瑪夏卷宗-4K-雙面-200P銅西卡-500張-裁474MMX326MM.cdr']
+predict paper code: 398, prob: 0.841287, paper code: 398
+2017-10-29 20:35:07.049941: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--華山基金會-12K中式信封-80g道林紙-5000張--.cdr']
+predict paper code: 74, prob: 0.999695, paper code: 74
+2017-10-29 20:35:12.510418: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A07--氣氛旗-4K-銅版紙150g-雙面-100張-裁4K.ai']
+predict paper code: 396, prob: 0.997653, paper code: 396
+2017-10-29 20:35:17.992840: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03--GSC-19 GSC-39D GSC-35 GWT-8820A GWT-8820E  G2-300P銅西卡-500張-雙面-不裁修.ai']
+predict paper code: 283, prob: 0.999952, paper code: 283
+2017-10-29 20:35:23.448697: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--九月優惠-4K-190g雙銅-200張-單-裁4K.ai']
+predict paper code: 397, prob: 0.999988, paper code: 397
+2017-10-29 20:35:29.430327: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--新進工業信封-80P道林紙-中式15K信封-2000個.ai']
+predict paper code: 4493, prob: 1.0, paper code: 47
+2017-10-29 20:35:34.939349: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A08--領先農科餐廳領料申請單-G8K-複寫三聯單(1白2黃3紅)-20本+糊頭+牛皮紙封.pdf']
+predict paper code: 147, prob: 0.815276, paper code: 147
+2017-10-29 20:35:40.481809: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '011--名片醫百錢雅玲-象牙卡-雙面-2盒.ai']
+predict paper code: 4168, prob: 0.994786, paper code: 4168
+2017-10-29 20:35:45.912975: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--6組條碼-吊卡-A3-350P銅西-1千張-雙面-裁420x250mm--.cdr']
+predict paper code: 297, prob: 0.999997, paper code: 297
+2017-10-29 20:35:51.434345: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03--琴話悲喜-2K-190P雙銅紙-單面-100張-單面上霧膜-修邊.cdr']
+predict paper code: 381, prob: 0.999843, paper code: 381
+2017-10-29 20:35:56.992518: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--燕子城橫式信封-中12K-80p道林-1千張.cdr']
+predict paper code: 43, prob: 0.873951, paper code: 43
+2017-10-29 20:36:02.401574: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03--寶山肥料行-G32K-複寫二聯單-60本-一黃二紅+騎縫線+流水號+厚紙版+牛皮封面+打釘.cdr']
+predict paper code: 143, prob: 0.99999, paper code: 143
+2017-10-29 20:36:07.936552: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '005--謝宜玲-雙面-雙亮-三盒.cdr']
+predict paper code: 4119, prob: 0.274604, paper code: 4160
+2017-10-29 20:36:13.363990: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '037--屏東縣身心障礙者就業福利協會-黃湘嫻-一級卡-5盒-單面.cdr']
+predict paper code: 4140, prob: 0.983919, paper code: 4140
+2017-10-29 20:36:18.831078: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '045--042阿法塔羅牌-雙局光-10盒-雙面.cdr']
+predict paper code: 199, prob: 0.999999, paper code: 199
+2017-10-29 20:36:24.315264: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A05--佳音義華-萬聖節著色單-A4-模造紙147磅-2000張-單-修邊.ai']
+predict paper code: 4357, prob: 0.999956, paper code: 4357
+2017-10-29 20:36:29.803010: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA04--東水全國高中法規彙編-G2-250磅銅西卡+單霧+單局-300張-單面-不裁修-已通知洪小姐1013(四)到貨.pdf']
+predict paper code: 4480, prob: 0.421194, paper code: 282
+2017-10-29 20:36:35.267091: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04--燦和-中式-15k信封-中間糊-100p道林-5000個.cdr']
+predict paper code: 46, prob: 0.999911, paper code: 46
+2017-10-29 20:36:40.754230: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A65--訂房單-16K-260x187mm-複寫二聯單(白+紅)+單色黑-糊頭-60本.pdf']
+predict paper code: 89, prob: 0.999756, paper code: 89
+2017-10-29 20:36:46.299798: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--大港消夜-G8K-50P單色黑-一聯單+流水號紅字000001開始-糊頭-60本(白紙).CDR']
+predict paper code: 104, prob: 0.560511, paper code: 104
+2017-10-29 20:36:51.723086: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01--聞香閣地圖-G32K-70磅一聯單-紅色紙+單色黑-60本+上方糊頭.ai']
+predict paper code: 4515, prob: 0.919597, paper code: 109
+2017-10-29 20:36:57.325971: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03--70P一聯單-粉紅色紙+單色黑+糊頭-20本+流水號(5碼-紅字).ai']
+predict paper code: 110, prob: 0.99841, paper code: 110
+2017-10-29 20:37:02.846717: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A07--小小兵企業社-24K三聯單(一白二藍三紅)+騎縫線+厚紙版+牛皮封面+打釘-20本--.cdr']
+predict paper code: 93, prob: 0.838116, paper code: 93
+2017-10-29 20:37:08.256590: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '009--康輔-2組各5盒-雪銅卡-單面.cdr']
+predict paper code: 209, prob: 1.0, paper code: 209
+2017-10-29 20:37:13.770644: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '027--天鳳消-安格紙-3盒-雙.cdr']
+predict paper code: 304, prob: 1.0, paper code: 304
+2017-10-29 20:37:19.232082: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A14--屏東醫院-病歷表格(十色卡)(4+7+8)-長G2-186P模造紙-雙面-2仟張-裁3m.cdr']
+predict paper code: 4359, prob: 1.0, paper code: 4359
+2017-10-29 20:37:24.682681: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '050--胖飽鹹酥雞-夢幻卡-5盒-單.cdr']
+predict paper code: 215, prob: 1.0, paper code: 215
+2017-10-29 20:37:30.502974: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '045--透明貼-270x54mm-5盒-3模.cdr']
+predict paper code: 4515, prob: 0.999991, paper code: 4515
+2017-10-29 20:37:36.014568: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A10--數位印刷-大A3-300G銅西-20張-單面-裁A3.PDF']
+predict paper code: 4341, prob: 0.527853, paper code: 4341
+2017-10-29 20:37:41.451891: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '037--林智哲-珠光紙-雙彩-5盒.ai']
+predict paper code: 260, prob: 1.0, paper code: 260
+2017-10-29 20:37:46.944870: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '100--陳俊杰-細紋卡-5盒-雙面.ai']
+predict paper code: 4480, prob: 1.0, paper code: 4480
+2017-10-29 20:37:52.509414: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A05--MCAA工作坊-A4資料夾-250g銅西卡+單面上霧膜-500個-單彩-去名片刀模.ai']
+predict paper code: 4605, prob: 0.937127, paper code: 4605
+2017-10-29 20:37:58.269465: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '016--F11000-模造貼紙-5盒-裁75x30mm.cdr']
+predict paper code: 4343, prob: 1.0, paper code: 4343
+2017-10-29 20:38:04.295612: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '090--3高蓁-裁7x7公分-霧透卡-5盒-2模.ai']
+predict paper code: 4190, prob: 0.999999, paper code: 4190
+2017-10-29 20:38:10.448581: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A11--歐式12K信封-100p萊妮紙-1萬張.cdr']
+predict paper code: 212, prob: 0.978709, paper code: 212
+2017-10-29 20:38:16.544731: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '042--手工紋繡-白炫光-5盒-雙面-裁90x48mm.ai']
+predict paper code: 228, prob: 0.999965, paper code: 228
+2017-10-29 20:38:22.723170: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02--山上區戶政事務所-透明U型資料夾-180UM-滿版白墨-1000個.CDR']
+predict paper code: 4493, prob: 0.998752, paper code: 4211
+2017-10-29 20:38:29.025467: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A31--小竹-紙袋A2(菊對)-150P單上霧-1000份-棉繩015草綠色-不用打樣直接做.eps']
+predict paper code: 4182, prob: 0.920541, paper code: 4182
+2017-10-29 20:38:35.019608: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A30--小竹-紙袋2K(對開)-白牛皮120P-1000份-棉繩015草綠色-不用打樣直接做.eps']
+predict paper code: 4191, prob: 0.463284, paper code: 4520
+2017-10-29 20:38:41.104204: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--護庇宮光明燈卡-A3-350磅銅西卡-500張-單面-不裁修--.cdr']
+predict paper code: 4342, prob: 0.829515, paper code: 299
+2017-10-29 20:38:47.238230: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A09--財團法人法律扶助基金會屏東分會-中式4k信封(糊中間)-120P白牛-3仟封.cdr']
+predict paper code: 51, prob: 0.99999, paper code: 51
+2017-10-29 20:38:53.360302: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A13--SK膠夾-L型資料夾_厚180UM+滿版白墨-1000個.CDR']
+predict paper code: 4200, prob: 0.888093, paper code: 4200
+2017-10-29 20:38:59.419375: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A27--L型-透明資料夾-不含白墨-3000個.AI']
+predict paper code: 4202, prob: 0.587906, paper code: 4202
+2017-10-29 20:39:05.397586: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA04--通訊綠內頁03-數位印刷-A4-100G銅版-30張-雙面-不裁修--.PDF']
+predict paper code: 4332, prob: 0.898907, paper code: 4332
+2017-10-29 20:39:11.565570: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A07--高苑工商賀年卡信封-道林100P-蝴蝶式信封-2000個.ai']
+predict paper code: 42, prob: 0.661828, paper code: 16
+2017-10-29 20:39:17.729470: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A24--石門國小-大三開-手提袋-150g雙銅+單霧-1000個-棉繩編號005-不打樣直接做.ai']
+predict paper code: 4598, prob: 0.650631, paper code: 4178
+2017-10-29 20:39:23.901651: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A31--瑞旭-西式12K信封-100G道林紙-3000封-不做拉鍊--.ai']
+predict paper code: 4350, prob: 0.999997, paper code: 4350
+2017-10-29 20:39:30.012707: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '013--雙面-綠能再生卡-3人各5盒-裁88x52mm.ai']
+predict paper code: 231, prob: 0.999972, paper code: 231
+2017-10-29 20:39:36.743042: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A30--里港國小-1000個-L夾-200磅-上滿版白墨.AI']
+predict paper code: 4493, prob: 0.627012, paper code: 4201
+2017-10-29 20:39:42.884699: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA01--青山60週年特刊邀請卡1-數位印刷-大A3-250G銅西-50張-雙面-裁2M(2刀修)成208X295MM--.PDF']
+predict paper code: 4340, prob: 0.999999, paper code: 4340
+2017-10-29 20:39:49.024413: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'F001-(良)-B50X85-數位貼紙(合成上亮膜)-2000張-黑麻油標籤-台南紙業-.PDF']
+predict paper code: 2278, prob: 0.987684, paper code: 2278
+2017-10-29 20:39:55.167082: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'F002-(良)-B55X85-數位極黏貼+亮膜-1000張-BB一品香火鍋沙茶醬-台南紙業-.PDF']
+predict paper code: 2424, prob: 0.940832, paper code: 2424
+2017-10-29 20:40:01.388379: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA04--郵局-新年明信片-後紙卡-A3-35條單銅T(正面單上亮膜)-500張-雙面-裁2m成212x298mm--.ai']
+predict paper code: 234, prob: 0.685774, paper code: 4205
+2017-10-29 20:40:07.337283: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A24--東山+數位網點打樣+菊全-1張.ai']
+predict paper code: 207, prob: 0.997938, paper code: 207
+2017-10-29 20:40:13.325712: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A40--+教育-數位網點打樣-G2-一張-明天1207(三)到.cdr']
+predict paper code: 208, prob: 0.971707, paper code: 208
+2017-10-29 20:40:19.194491: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A45--西港廣安堂106掛軸-大型海報-150P銅版紙-單面-壹百張-裁57x100公分--.cdr']
+predict paper code: 234, prob: 0.998522, paper code: 217
+2017-10-29 20:40:25.150302: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A14--合作社-4K摺紙DM(對摺-高雄縣茄萣鄉消費合作社為封面)-80P銅版-雙面-1萬張-修邊--.ai']
+predict paper code: 380, prob: 0.567066, paper code: 351
+2017-10-29 20:40:31.225908: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A18--佳廣信封袋-E12K-道林紙100P -1000個.ai']
+predict paper code: 210, prob: 0.944187, paper code: 210
+2017-10-29 20:40:37.377458: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '036--赤馬石油-靜電貼紙-5盒--.cdr']
+predict paper code: 4360, prob: 0.999999, paper code: 4360
+2017-10-29 20:40:43.501236: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '(重傳)-A17--聯成-數位-大A3-200P銅西-單面-50張-裁2M(2刀修)成A4--.PDF']
+predict paper code: 4337, prob: 0.833996, paper code: 4337
+2017-10-29 20:40:49.729023: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A22--藝卡通-明信片封套E-4K-250磅銅西卡-單彩-300張-留最大邊不裁修.ai']
+predict paper code: 399, prob: 0.924858, paper code: 399
+2017-10-29 20:40:55.866914: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A33-印殿堂-馬里山-A4拚3模-數位打樣-1張.cdr']
+predict paper code: 4342, prob: 0.652463, paper code: 203
+2017-10-29 20:41:01.802396: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A03-翊揚-警察局婦幼隊-16K墊板-400磅合成紙-雙彩-2000個-急件--.ai']
+predict paper code: 4590, prob: 0.986385, paper code: 4590
+2017-10-29 20:41:08.042147: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A02-神彩-期霖-西式12k信封-1000個-80g道林.ai']
+predict paper code: 4350, prob: 0.975491, paper code: 4351
+2017-10-29 20:41:14.063161: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A05-達映-遠大阿滷盒子-菊全-銅西卡300P(單上亮膜)-400張-單面-不裁修留最大.ai']
+predict paper code: 267, prob: 0.918451, paper code: 267
+2017-10-29 20:41:20.231056: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01-文珍-包公廟用春聯-數位打樣(校色用)-a3-1張.cdr']
+predict paper code: 205, prob: 0.999987, paper code: 205
+2017-10-29 20:41:26.445534: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'CA03-1-丫益-吳慶-拉貝爾菜單內頁-組版2-正面-菊全開-銅西卡200P(雙面霧P)-200張-雙-不裁修--.ai']
+predict paper code: 265, prob: 0.999952, paper code: 265
+2017-10-29 20:41:32.136557: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04-苑美崑-繪群-中洲保生宮-歐式12K信封-80P道林-2仟個.ai']
+predict paper code: 211, prob: 0.645563, paper code: 211
+2017-10-29 20:41:38.108754: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A06-逸倢-G01000-大地林擒-廣告扇-250P銅西-雙面上霧膜-扇柄014(半透白)-300支.ai']
+predict paper code: 263, prob: 0.672229, paper code: 4592
+2017-10-29 20:41:43.615511: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '036-臺南佳大-林文祥-合成卡   雙面   3盒.ai']
+predict paper code: 4141, prob: 0.999622, paper code: 4141
+2017-10-29 20:41:49.081404: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A25-星宇-單面彩色信封-(蝴蝶式信封198x138mm)-道林紙80g-1000個.cdr']
+predict paper code: 74, prob: 0.859376, paper code: 17
+2017-10-29 20:41:54.526426: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A20-順益-南天宮-32K-複寫二聯單(1黃2紅)+單色紅-60本+流水號00001開始(紅字)+糊頭+騎縫線+打釘+牛皮紙封面+厚紙板底.cdr']
+predict paper code: 95, prob: 0.99837, paper code: 95
+2017-10-29 20:42:00.012514: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A16-華人-越南-歐式12K信封+開窗-80p道林紙-1000張.ai']
+predict paper code: 225, prob: 0.986584, paper code: 225
+2017-10-29 20:42:05.586149: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A13-華人-中式4K公文封中心糊-白牛皮100磅-1000份.ai']
+predict paper code: 50, prob: 0.999003, paper code: 50
+2017-10-29 20:42:10.988198: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '054-鑫達仁-原生園VIP-貴賓卡-700P-PVC卡+正面流水號燙銀打凸001000到001999+背面簽名條-1000張-雙面.CDR']
+predict paper code: 42, prob: 0.366076, paper code: 4516
+2017-10-29 20:42:16.525167: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A21-秋穗-海漁所-中式4K信封-100磅白牛皮-1000個.cdr']
+predict paper code: 50, prob: 0.93698, paper code: 81
+2017-10-29 20:42:21.994261: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A16-鴻綺彩印-INNTECK (紅盒)-大-A3-400磅銅西-2000張-單-不修.ai']
+predict paper code: 4195, prob: 0.99783, paper code: 4195
+2017-10-29 20:42:27.421231: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '104-伊滕-風水-彩鑽卡-5盒-雙面--.AI']
+predict paper code: 300, prob: 0.999995, paper code: 300
+2017-10-29 20:42:32.990664: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A18-生活資訊社-南隆國中請柬-特價DM-A4-100P銅版-500張-單面-裁180x255mm.jpg']
+predict paper code: 4191, prob: 0.970352, paper code: 4215
+2017-10-29 20:42:38.492909: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'B005-坤霖盒子-單面霧-雙面印刷-5盒-8模-裁220x150mm--.ai']
+predict paper code: 4162, prob: 0.533945, paper code: 4162
+2017-10-29 20:42:43.997516: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA11-1-彩聖-振曜-好思佳目錄-正-大型海報-銅版190P-400張-雙-不裁修-[雙面亮P]--.ai']
+predict paper code: 218, prob: 0.991753, paper code: 218
+2017-10-29 20:42:49.497526: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A34-翔順-Menu-(桃機一航)-A4二模大-80p模造-1千張-單面-裁410x210mm.cdr']
+predict paper code: 4519, prob: 0.957771, paper code: 4519
+2017-10-29 20:42:54.972259: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A17-玖億-((底色修改-Y88))-保生大帝-數位打樣-A3-1張.tif']
+predict paper code: 204, prob: 0.998533, paper code: 204
+2017-10-29 20:43:00.389833: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A26-儒昇-華醫-4K公文封(糊側邊)-120P白牛皮紙-4000個.ai']
+predict paper code: 82, prob: 0.51882, paper code: 82
+2017-10-29 20:43:05.895262: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'CBA02-煒順-NO45新聞簡訊-G全-100g銅版-1500張-雙面-裁8m成299x210mm--.pdf']
+predict paper code: 261, prob: 0.914264, paper code: 261
+2017-10-29 20:43:11.379902: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA02-祥圓滿-320---A3-150G銅版紙-雙面-5百張-不裁修(客戶確認顏色非四色_請直接轉四色).PDF']
+predict paper code: 237, prob: 0.940484, paper code: 237
+2017-10-29 20:43:16.830538: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A23-普天-舊寮-16k-250g-雙亮墊板-200張+雙.cdr']
+predict paper code: 4523, prob: 0.995581, paper code: 4523
+2017-10-29 20:43:22.334742: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'CBA02-森林-佳里扶輪-2內頁-2K-100p銅版-300張-雙面-不裁修--.pdf']
+predict paper code: 378, prob: 0.999967, paper code: 378
+2017-10-29 20:43:27.877526: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA16-美東-懷德人本-2K-250G銅西卡-300張-雙彩-[單面上霧]-不裁修(確認內容照印).CDR']
+predict paper code: 383, prob: 0.922407, paper code: 383
+2017-10-29 20:43:33.264635: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A08-彩聖-TS-A 蜻蜓-山奇筆記本扉頁-G全-雙面-80P道林-300張-不裁修--.ai']
+predict paper code: 278, prob: 0.985405, paper code: 278
+2017-10-29 20:43:39.183736: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A16-品藝-朱西平海報-G全-銅版紙120P-單面-100張-裁G全.cdr']
+predict paper code: 262, prob: 0.99999, paper code: 262
+2017-10-29 20:43:44.670645: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA07-德昌-豚寶-2K-300P銅西-1000張-放數50張-不修------.ai']
+predict paper code: 384, prob: 0.999967, paper code: 384
+2017-10-29 20:43:50.196449: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA09-森林-聯彰絨毛-A3-450P-銅西-單-500張-裁2模-完成尺寸218X148MM-.CDR']
+predict paper code: 4197, prob: 0.846688, paper code: 4197
+2017-10-29 20:43:55.719583: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01-一元設計_建築新人獎_2K_道林紙147g_100張-單-修邊.pdf']
+predict paper code: 394, prob: 0.998626, paper code: 394
+2017-10-29 20:44:01.225839: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA10-全勝-博弘圓型-A4-400磅銅西卡-雙面-2千張-----------------------.ai']
+predict paper code: 4196, prob: 0.874875, paper code: 4196
+2017-10-29 20:44:06.755903: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南-F11-(良)-B60X40 數位極黏貼紙+亮膜 500張--陳家友善香草園薰衣草液皂--南紙--協傳-500KA60X40B.pdf']
+predict paper code: 1855, prob: 0.998244, paper code: 1855
+2017-10-29 20:44:12.332817: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A29-英武-喜餅卡-A4數位打樣-1張.cdr']
+predict paper code: 206, prob: 0.99999, paper code: 206
+2017-10-29 20:44:17.867042: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南-A05-遠欣-美祺桃紅字黑底卡-2K-350P銅西卡-雙面-1千張-[不裁留最大]-----------1000K2K350W1M(確認請把正面下方說明文字拿掉).CDR']
+predict paper code: 385, prob: 0.999846, paper code: 385
+2017-10-29 20:44:23.301313: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '(重傳)-BA02-老胡-X_mas_x4p-G1-250P銅西-2000張-單-修840x594mm-.pdf']
+predict paper code: 266, prob: 0.998919, paper code: 266
+2017-10-29 20:44:28.851448: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A10-楠梓虹影印-藍約翰與愛同行徵文比賽-G2-150磅特銅上水性光-單面-200張-裁G2.ai']
+predict paper code: 8, prob: 0.998668, paper code: 8
+2017-10-29 20:44:34.322872: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南紙業-6678967_{雙元}_妙可適益解水+4K海報56條單銅T+單面+500張+不裁修.ai']
+predict paper code: 408, prob: 0.999979, paper code: 408
+2017-10-29 20:44:39.801161: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA15-樂點子-封面-A3-超亮特銅157P-500張-雙-不修(數量要足夠-注意顏色)-------.cdr']
+predict paper code: 279, prob: 0.539199, paper code: 235
+2017-10-29 20:44:45.357445: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南紙業-7696601_{世一}_丁丁水洗書+2K+銅版紙120G+單面+100張+裁524x764mm.pdf']
+predict paper code: 379, prob: 0.999942, paper code: 379
+2017-10-29 20:44:50.849912: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南-BA01-宜眾-合作社-[4K摺紙DM]-100P銅版-1萬張-雙面-裁4K不摺交件-10000I4JW1M_急件明天要交件正面.pdf']
+predict paper code: 344, prob: 0.694806, paper code: 344
+2017-10-29 20:44:56.365577: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南紙業-5526463_{元祥}_慈濟高中+G2+銅西卡350P+單面+200張+(拼板邊不裁修)+(請要足數).cdr']
+predict paper code: 284, prob: 0.998741, paper code: 284
+2017-10-29 20:45:01.803037: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A06-2-全祐_護照內頁(背)_.ai']
+predict paper code: 393, prob: 0.99992, paper code: 393
+2017-10-29 20:45:07.288192: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '台南紙業-6895953_{元祥}_創意夢想+G全灰銅54條+單面+1千張+請印滿版最大不要裁修+請要足數.cdr']
+predict paper code: 269, prob: 0.986836, paper code: 269
+2017-10-29 20:45:12.740744: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A04-柏穎-加拿大-A3-46條單銅T-500張-[單上霧]-留咬口-不修.ai']
+predict paper code: 4207, prob: 0.997399, paper code: 4207
+2017-10-29 20:45:18.261993: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA07-蓮華-學而書會-G全-模造147P-雙面-100張-裁3模-完成尺寸837x192mm-------------.cdr']
+predict paper code: 277, prob: 0.999968, paper code: 277
+2017-10-29 20:45:23.780289: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', '(重傳)A08-億暉-億暉三聯單-210x99-120本-流水號005001起-騎縫線+牛皮封面.cdr']
+predict paper code: 141, prob: 0.999908, paper code: 141
+2017-10-29 20:45:29.273546: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'BA04-彩聖-TS-E豐德手冊-內頁-G全-100P道林-300張-雙-不才修----.pdf']
+predict paper code: 276, prob: 0.999919, paper code: 276
+2017-10-29 20:45:35.588214: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:01:00.0)
+['x', 'A01-印殿堂成工力-香品漢堡-G16K-完成尺寸210X148MM-一聯單-50P-白底黑字-60本[糊頭].CDR']
+predict paper code: 137, prob: 0.334927, paper code: 101
+
+

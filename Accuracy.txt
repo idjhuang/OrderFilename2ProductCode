@@ -1,0 +1,198 @@
+Accuracy (tensorflow): 0.852459
+Accuracy (tensorflow): 0.819672
+Accuracy (tensorflow): 0.942623
+0.01 2000 Diverged
+0.01 1000 Diverged
+0.01 500 Diverged
+0.01 100 Accuracy (tensorflow): 0.926230
+0.005 200 Accuracy (tensorflow): 0.885246 D:\TEMP\tmp927pu5pe
+0.005 400 Accuracy (tensorflow): 0.893443 D:\TEMP\tmpgqvubktl
+
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmpvqr4f9y4
+Accuracy (sklearn): 0.832200
+Accuracy (tensorflow): 0.832200
+Accuracy (sklearn): 0.884200
+Accuracy (tensorflow): 0.884200
+Accuracy (sklearn): 0.858000
+Accuracy (tensorflow): 0.858000
+Accuracy (sklearn): 0.750400
+Accuracy (tensorflow): 0.750400
+Accuracy (sklearn): 0.840600
+Accuracy (tensorflow): 0.840600
+
+0.001 100
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmp2aijdpp8
+Accuracy (sklearn): 0.801000
+Accuracy (tensorflow): 0.801000
+Accuracy (sklearn): 0.926500
+Accuracy (tensorflow): 0.926500
+Accuracy (sklearn): 0.946000
+Accuracy (tensorflow): 0.946000
+Accuracy (sklearn): 0.960500
+Accuracy (tensorflow): 0.960500
+Accuracy (sklearn): 0.975750
+Accuracy (tensorflow): 0.975750
+Accuracy (sklearn): 0.979500
+Accuracy (tensorflow): 0.979500
+Accuracy (sklearn): 0.979000
+Accuracy (tensorflow): 0.979000
+Accuracy (sklearn): 0.968500
+Accuracy (tensorflow): 0.968500
+Accuracy (sklearn): 0.985500
+Accuracy (tensorflow): 0.985500
+Accuracy (sklearn): 0.992750
+Accuracy (tensorflow): 0.992750
+
+0.0002 100
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmptbnnyz4j
+Accuracy (sklearn): 0.098500
+Accuracy (tensorflow): 0.098500
+Accuracy (sklearn): 0.757250
+Accuracy (tensorflow): 0.757250
+Accuracy (sklearn): 0.848250
+Accuracy (tensorflow): 0.848250
+Accuracy (sklearn): 0.847500
+Accuracy (tensorflow): 0.847500
+Accuracy (sklearn): 0.882250
+Accuracy (tensorflow): 0.882250
+Accuracy (sklearn): 0.885000
+Accuracy (tensorflow): 0.885000
+Accuracy (sklearn): 0.899250
+Accuracy (tensorflow): 0.899250
+Accuracy (sklearn): 0.922000
+Accuracy (tensorflow): 0.922000
+Accuracy (sklearn): 0.916750
+Accuracy (tensorflow): 0.916750
+Accuracy (sklearn): 0.914750
+Accuracy (tensorflow): 0.914750
+
+0.0005 100
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmp43s_4ibo
+Accuracy (sklearn): 0.849250
+Accuracy (tensorflow): 0.849250
+Accuracy (sklearn): 0.896500
+Accuracy (tensorflow): 0.896500
+Accuracy (sklearn): 0.923000
+Accuracy (tensorflow): 0.923000
+Accuracy (sklearn): 0.931000
+Accuracy (tensorflow): 0.931000
+Accuracy (sklearn): 0.950750
+Accuracy (tensorflow): 0.950750
+Accuracy (sklearn): 0.960750
+Accuracy (tensorflow): 0.960750
+Accuracy (sklearn): 0.963750
+Accuracy (tensorflow): 0.963750
+Accuracy (sklearn): 0.946750
+Accuracy (tensorflow): 0.946750
+Accuracy (sklearn): 0.971000
+Accuracy (tensorflow): 0.971000
+Accuracy (sklearn): 0.976250
+Accuracy (tensorflow): 0.976250
+
+0.0005 200
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmp7j20u33b
+Accuracy (sklearn): 0.873750
+Accuracy (tensorflow): 0.873750
+Accuracy (sklearn): 0.943250
+Accuracy (tensorflow): 0.943250
+Accuracy (sklearn): 0.943750
+Accuracy (tensorflow): 0.943750
+Accuracy (sklearn): 0.961750
+Accuracy (tensorflow): 0.961750
+Accuracy (sklearn): 0.970500
+Accuracy (tensorflow): 0.970500
+Accuracy (sklearn): 0.981750
+Accuracy (tensorflow): 0.981750
+Accuracy (sklearn): 0.978750
+Accuracy (tensorflow): 0.978750
+Accuracy (sklearn): 0.982250
+Accuracy (tensorflow): 0.982250
+Accuracy (sklearn): 0.987750
+Accuracy (tensorflow): 0.987750
+Accuracy (sklearn): 0.988000
+Accuracy (tensorflow): 0.988000
+
+0.0005 300
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmp7txgti1y
+Accuracy (sklearn): 0.775250
+Accuracy (tensorflow): 0.775250
+Accuracy (sklearn): 0.894000
+Accuracy (tensorflow): 0.894000
+Accuracy (sklearn): 0.944000
+Accuracy (tensorflow): 0.944000
+Accuracy (sklearn): 0.963000
+Accuracy (tensorflow): 0.963000
+Accuracy (sklearn): 0.963250
+Accuracy (tensorflow): 0.963250
+Accuracy (sklearn): 0.973750
+Accuracy (tensorflow): 0.973750
+Accuracy (sklearn): 0.978500
+Accuracy (tensorflow): 0.978500
+Accuracy (sklearn): 0.975000
+Accuracy (tensorflow): 0.975000
+Accuracy (sklearn): 0.986000
+Accuracy (tensorflow): 0.986000
+Accuracy (sklearn): 0.981500
+Accuracy (tensorflow): 0.981500
+
+0.0005 300
+WARNING:tensorflow:Using temporary folder as model directory: D:\TEMP\tmpx8gr_9tt
+Accuracy (sklearn): 0.092500
+Accuracy (sklearn): 0.815000
+Accuracy (sklearn): 0.922000
+Accuracy (sklearn): 0.947500
+Accuracy (sklearn): 0.951750
+Accuracy (sklearn): 0.971750
+Accuracy (sklearn): 0.978750
+Accuracy (sklearn): 0.981500
+Accuracy (sklearn): 0.977750
+Accuracy (sklearn): 0.972000
+Accuracy (sklearn): 0.990250
+Accuracy (sklearn): 0.992500
+Accuracy (sklearn): 0.994250
+Accuracy (sklearn): 0.991000
+Accuracy (sklearn): 0.995000
+Accuracy (sklearn): 0.993000
+Accuracy (sklearn): 0.994750
+Accuracy (sklearn): 0.991000
+Accuracy (sklearn): 0.996250
+Accuracy (sklearn): 0.994750
+Accuracy (sklearn): 0.995000
+Accuracy (sklearn): 0.998750
+Accuracy (sklearn): 0.993500
+Accuracy (sklearn): 0.996000
+Accuracy (sklearn): 0.996250
+Accuracy (sklearn): 0.994500
+
+Accuracy (sklearn): 0.995309
+Accuracy (sklearn): 0.994314
+Accuracy (sklearn): 0.995743
+Accuracy (sklearn): 0.996924
+Accuracy (sklearn): 0.999316
+Accuracy (sklearn): 0.994874
+Accuracy (sklearn): 0.999192
+Accuracy (sklearn): 0.997421
+Accuracy (sklearn): 0.999192
+Accuracy (sklearn): 0.999783
+Accuracy (sklearn): 0.999751
+Accuracy (sklearn): 0.992450
+Accuracy (sklearn): 0.993879
+Accuracy (sklearn): 0.999316
+Accuracy (sklearn): 0.993817
+Accuracy (sklearn): 0.996210
+Accuracy (sklearn): 0.993817
+Accuracy (sklearn): 0.997297
+Accuracy (sklearn): 0.996210
+Accuracy (sklearn): 0.990928
+Accuracy (sklearn): 0.992357
+Accuracy (sklearn): 0.994936
+Accuracy (sklearn): 0.994594
+Accuracy (sklearn): 0.995526
+Accuracy (sklearn): 0.996893
+Accuracy (sklearn): 0.996023
+Accuracy (sklearn): 0.995526
+Accuracy (sklearn): 0.995992
+Accuracy (sklearn): 0.996241
+
+30350 / 25846
+
